@@ -1,2 +1,2 @@
 # project2
-CSA 250 course project 2
+Classification on Fashion MNIST dataset using CNN.
